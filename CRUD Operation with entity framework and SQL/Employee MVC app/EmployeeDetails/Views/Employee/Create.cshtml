@@ -1,0 +1,27 @@
+﻿@using EmployeeAdminPortal.Models.Entities
+@model   AddemployeeDto
+
+<h2>Add Employee</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label>Name</label>
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+    </div>
+    <div>
+        <label>Email</label>
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+    </div>
+    <div>
+        <label>Phone</label>
+        @Html.TextBoxFor(m => m.Phone, new { @class = "form-control" })
+    </div>
+    <div>
+        <label>Salary</label>
+        @Html.TextBoxFor(m => m.salary, new { @class = "form-control" })
+    </div>
+    <br />
+    <button type="submit" class="btn btn-success">Add</button>
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+}

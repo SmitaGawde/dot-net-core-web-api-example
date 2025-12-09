@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|d:\\smita\\interview practice\\web api coding practice\\crud operation with entity framework and sql\\employee mvc app new\\employeedetails\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|solutionrelative:views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|d:\\smita\\interview practice\\web api coding practice\\crud operation with entity framework and sql\\employee mvc app new\\employeedetails\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|solutionrelative:models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|d:\\smita\\interview practice\\web api coding practice\\crud operation with entity framework and sql\\employee mvc app new\\employeedetails\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|d:\\smita\\interview practice\\web api coding practice\\crud operation with entity framework and sql\\employee mvc app new\\employeedetails\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|d:\\smita\\interview practice\\web api coding practice\\crud operation with entity framework and sql\\employee mvc app new\\employeedetails\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|solutionrelative:services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|d:\\smita\\interview practice\\web api coding practice\\crud operation with entity framework and sql\\employee mvc app new\\employeedetails\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|d:\\smita\\interview practice\\web api coding practice\\crud operation with entity framework and sql\\employee mvc app new\\employeedetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|d:\\smita\\interview practice\\web api coding practice\\crud operation with entity framework and sql\\employee mvc app new\\employeedetails\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|d:\\smita\\interview practice\\web api coding practice\\crud operation with entity framework and sql\\employee mvc app new\\employeedetails\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A41897-5336-4A89-B201-B76034D81139}|EmployeeDetails.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T05:54:40.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:12:03.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:09:51.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeServices.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "Services\\EmployeeServices.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAEwA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:17:00.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T04:29:00.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:12:00.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDto.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "Models\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:11:57.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T04:21:26.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:29:04.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

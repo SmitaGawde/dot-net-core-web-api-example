@@ -1,0 +1,9 @@
+﻿@model List<EmployeeDTo>
+<h2>Products</h2>
+<ul>
+    @foreach (var p in Model)
+    {
+        <li>@p.EmpID - @p.Name</li>
+    }
+</ul>
+<a href="/">Back</a>

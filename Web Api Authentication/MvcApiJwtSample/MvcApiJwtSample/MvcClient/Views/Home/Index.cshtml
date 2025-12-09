@@ -1,0 +1,18 @@
+@{
+    ViewData["Title"] = "Home";
+}
+<h2>MVC Client</h2>
+<p>This MVC app consumes the protected API using JWT access + refresh tokens.</p>
+
+@if (User?.Identity?.IsAuthenticated ?? false)
+{
+    <p>Hello, @User.Identity.Name!</p>
+    <form method="post" action="/Account/Logout">
+        <button type="submit">Logout</button>
+    </form>
+    <p><a href="/Home/Products">View Products (protected)</a></p>
+}
+else
+{
+    <p><a href="/Account/Login">Login</a></p>
+}

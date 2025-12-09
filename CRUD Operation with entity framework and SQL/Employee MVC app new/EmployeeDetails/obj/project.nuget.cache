@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OI4GrHOFXLE=",
+  "success": true,
+  "projectFilePath": "D:\\SMITA\\Interview Practice\\Web Api coding practice\\CRUD Operation with entity framework and SQL\\Employee MVC app new\\EmployeeDetails\\EmployeeDetails.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Smitha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

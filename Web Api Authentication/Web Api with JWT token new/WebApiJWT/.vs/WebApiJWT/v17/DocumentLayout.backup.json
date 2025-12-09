@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SMITA\\Interview Practice\\Web Api with JWT token new\\WebApiJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3703FCDE-77C8-49B0-BE42-C29E5C19FE37}|WebApiJWT.csproj|d:\\smita\\interview practice\\web api with jwt token new\\webapijwt\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3703FCDE-77C8-49B0-BE42-C29E5C19FE37}|WebApiJWT.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3703FCDE-77C8-49B0-BE42-C29E5C19FE37}|WebApiJWT.csproj|d:\\smita\\interview practice\\web api with jwt token new\\webapijwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3703FCDE-77C8-49B0-BE42-C29E5C19FE37}|WebApiJWT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3703FCDE-77C8-49B0-BE42-C29E5C19FE37}|WebApiJWT.csproj|d:\\smita\\interview practice\\web api with jwt token new\\webapijwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3703FCDE-77C8-49B0-BE42-C29E5C19FE37}|WebApiJWT.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3703FCDE-77C8-49B0-BE42-C29E5C19FE37}|WebApiJWT.csproj|d:\\smita\\interview practice\\web api with jwt token new\\webapijwt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3703FCDE-77C8-49B0-BE42-C29E5C19FE37}|WebApiJWT.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3703FCDE-77C8-49B0-BE42-C29E5C19FE37}|WebApiJWT.csproj|d:\\smita\\interview practice\\web api with jwt token new\\webapijwt\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3703FCDE-77C8-49B0-BE42-C29E5C19FE37}|WebApiJWT.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api with JWT token new\\WebApiJWT\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api with JWT token new\\WebApiJWT\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:07:59.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api with JWT token new\\WebApiJWT\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api with JWT token new\\WebApiJWT\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:59:30.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api with JWT token new\\WebApiJWT\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api with JWT token new\\WebApiJWT\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T12:33:32.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api with JWT token new\\WebApiJWT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api with JWT token new\\WebApiJWT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:31:48.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api with JWT token new\\WebApiJWT\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api with JWT token new\\WebApiJWT\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:29:11.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

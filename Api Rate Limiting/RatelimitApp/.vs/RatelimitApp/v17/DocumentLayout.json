@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\Api Rate Limiting\\RatelimitApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C58921C-1931-4259-9B5C-81606063CE6F}|RatelimitApp\\RatelimitApp.csproj|f:\\interview practice\\latest interview questions and mini projects\\dot net core projects\\web api coding practice\\api rate limiting\\ratelimitapp\\ratelimitapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C58921C-1931-4259-9B5C-81606063CE6F}|RatelimitApp\\RatelimitApp.csproj|solutionrelative:ratelimitapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\Api Rate Limiting\\RatelimitApp\\RatelimitApp\\Program.cs",
+              "RelativeDocumentMoniker": "RatelimitApp\\Program.cs",
+              "ToolTip": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\Api Rate Limiting\\RatelimitApp\\RatelimitApp\\Program.cs",
+              "RelativeToolTip": "RatelimitApp\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwDEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T02:35:26.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

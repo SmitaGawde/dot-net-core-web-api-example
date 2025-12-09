@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\web api Throttling\\Throttlingapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{206C96FD-A381-449A-BD5C-F7B761AA1D27}|Throttlingapi\\Throttlingapi.csproj|f:\\interview practice\\latest interview questions and mini projects\\dot net core projects\\web api coding practice\\web api throttling\\throttlingapi\\throttlingapi\\middleware\\throttlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206C96FD-A381-449A-BD5C-F7B761AA1D27}|Throttlingapi\\Throttlingapi.csproj|solutionrelative:throttlingapi\\middleware\\throttlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206C96FD-A381-449A-BD5C-F7B761AA1D27}|Throttlingapi\\Throttlingapi.csproj|f:\\interview practice\\latest interview questions and mini projects\\dot net core projects\\web api coding practice\\web api throttling\\throttlingapi\\throttlingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206C96FD-A381-449A-BD5C-F7B761AA1D27}|Throttlingapi\\Throttlingapi.csproj|solutionrelative:throttlingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\web api Throttling\\Throttlingapi\\Throttlingapi\\Program.cs",
+              "RelativeDocumentMoniker": "Throttlingapi\\Program.cs",
+              "ToolTip": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\web api Throttling\\Throttlingapi\\Throttlingapi\\Program.cs",
+              "RelativeToolTip": "Throttlingapi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:17:47.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThrottlingMiddleware.cs",
+              "DocumentMoniker": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\web api Throttling\\Throttlingapi\\Throttlingapi\\Middleware\\ThrottlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Throttlingapi\\Middleware\\ThrottlingMiddleware.cs",
+              "ToolTip": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\web api Throttling\\Throttlingapi\\Throttlingapi\\Middleware\\ThrottlingMiddleware.cs",
+              "RelativeToolTip": "Throttlingapi\\Middleware\\ThrottlingMiddleware.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T03:06:22.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

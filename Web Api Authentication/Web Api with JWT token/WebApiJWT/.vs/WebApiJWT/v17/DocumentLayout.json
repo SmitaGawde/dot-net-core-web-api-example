@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|d:\\smita\\interview practice\\web api with jwt token\\webapijwt\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|d:\\smita\\interview practice\\web api with jwt token\\webapijwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|d:\\smita\\interview practice\\web api with jwt token\\webapijwt\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|d:\\smita\\interview practice\\web api with jwt token\\webapijwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|d:\\smita\\interview practice\\web api with jwt token\\webapijwt\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|d:\\smita\\interview practice\\web api with jwt token\\webapijwt\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|d:\\smita\\interview practice\\web api with jwt token\\webapijwt\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4101504A-E265-453F-A4A4-6B798CA84EAB}|WebApiJWT.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:08:28.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:08:03.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T14:48:16.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:48:14.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:27:27.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:26:51.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\SMITA\\Interview Practice\\Web Api with JWT token\\WebApiJWT\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:26:26.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

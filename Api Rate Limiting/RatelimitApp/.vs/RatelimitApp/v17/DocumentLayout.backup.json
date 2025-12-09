@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\Api Rate Limiting\\RatelimitApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C58921C-1931-4259-9B5C-81606063CE6F}|RatelimitApp\\RatelimitApp.csproj|f:\\interview practice\\latest interview questions and mini projects\\dot net core projects\\web api coding practice\\api rate limiting\\ratelimitapp\\ratelimitapp\\ratelimitapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4C58921C-1931-4259-9B5C-81606063CE6F}|RatelimitApp\\RatelimitApp.csproj|solutionrelative:ratelimitapp\\ratelimitapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C58921C-1931-4259-9B5C-81606063CE6F}|RatelimitApp\\RatelimitApp.csproj|f:\\interview practice\\latest interview questions and mini projects\\dot net core projects\\web api coding practice\\api rate limiting\\ratelimitapp\\ratelimitapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C58921C-1931-4259-9B5C-81606063CE6F}|RatelimitApp\\RatelimitApp.csproj|solutionrelative:ratelimitapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C58921C-1931-4259-9B5C-81606063CE6F}|RatelimitApp\\RatelimitApp.csproj|f:\\interview practice\\latest interview questions and mini projects\\dot net core projects\\web api coding practice\\api rate limiting\\ratelimitapp\\ratelimitapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C58921C-1931-4259-9B5C-81606063CE6F}|RatelimitApp\\RatelimitApp.csproj|solutionrelative:ratelimitapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RatelimitApp",
+              "DocumentMoniker": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\Api Rate Limiting\\RatelimitApp\\RatelimitApp\\RatelimitApp.csproj",
+              "RelativeDocumentMoniker": "RatelimitApp\\RatelimitApp.csproj",
+              "ToolTip": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\Api Rate Limiting\\RatelimitApp\\RatelimitApp\\RatelimitApp.csproj",
+              "RelativeToolTip": "RatelimitApp\\RatelimitApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-11T09:20:21.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\Api Rate Limiting\\RatelimitApp\\RatelimitApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RatelimitApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\Api Rate Limiting\\RatelimitApp\\RatelimitApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RatelimitApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:20:13.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\Api Rate Limiting\\RatelimitApp\\RatelimitApp\\Program.cs",
+              "RelativeDocumentMoniker": "RatelimitApp\\Program.cs",
+              "ToolTip": "F:\\Interview Practice\\latest Interview questions and mini projects\\Dot Net Core Projects\\Web Api coding practice\\Api Rate Limiting\\RatelimitApp\\RatelimitApp\\Program.cs",
+              "RelativeToolTip": "RatelimitApp\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T02:35:26.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

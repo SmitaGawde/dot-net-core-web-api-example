@@ -1,0 +1,24 @@
+﻿@model List<Employee>
+
+<h2>All Employees</h2>
+<a href="@Url.Action("Create")">Add New</a>
+<table>
+    <thead>
+        <tr><th>Name</th><th>Email</th><th>Phone</th><th>Salary</th><th>Action</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.Name</td>
+                <td>@emp.Email</td>
+                <td>@emp.Phone</td>
+                <td>@emp.salary</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = emp.id })">Edit</a> |
+                    <a href="@Url.Action("Delete", new { id = emp.id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
