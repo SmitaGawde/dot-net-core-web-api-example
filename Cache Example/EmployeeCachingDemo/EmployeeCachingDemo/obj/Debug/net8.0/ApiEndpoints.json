@@ -1,0 +1,63 @@
+[
+  {
+    "ContainingType": "EmployeeCachingDemo.Controllers.EmployeeController",
+    "Method": "GetEmployeesdistributed",
+    "RelativePath": "api/Employee/distributed",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeCachingDemo.Controllers.EmployeeController",
+    "Method": "GetEmployeeInMemory",
+    "RelativePath": "api/Employee/inMemmory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeCachingDemo.Controllers.EmployeeController",
+    "Method": "GetEmployeeOutputCache",
+    "RelativePath": "api/Employee/output",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeCachingDemo.Controllers.EmployeeController",
+    "Method": "GetEmployeeResponseCached",
+    "RelativePath": "api/Employee/response",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeCachingDemo.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EmployeeCachingDemo.WeatherForecast, EmployeeCachingDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

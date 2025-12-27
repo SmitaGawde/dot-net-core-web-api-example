@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|f:\\web-api-coding-practice\\cache example\\employeecachingdemo\\employeecachingdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|solutionrelative:employeecachingdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|f:\\web-api-coding-practice\\cache example\\employeecachingdemo\\employeecachingdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|solutionrelative:employeecachingdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|f:\\web-api-coding-practice\\cache example\\employeecachingdemo\\employeecachingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|solutionrelative:employeecachingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|f:\\web-api-coding-practice\\cache example\\employeecachingdemo\\employeecachingdemo\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|solutionrelative:employeecachingdemo\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|f:\\web-api-coding-practice\\cache example\\employeecachingdemo\\employeecachingdemo\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|solutionrelative:employeecachingdemo\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|f:\\web-api-coding-practice\\cache example\\employeecachingdemo\\employeecachingdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|solutionrelative:employeecachingdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|f:\\web-api-coding-practice\\cache example\\employeecachingdemo\\employeecachingdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A20C7E4-57F2-4438-A864-52048C35D8B9}|EmployeeCachingDemo\\EmployeeCachingDemo.csproj|solutionrelative:employeecachingdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeCachingDemo\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeCachingDemo\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:05:15.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeCachingDemo\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeCachingDemo\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:04:22.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeCachingDemo\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeCachingDemo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:01:27.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeCachingDemo\\Models\\Employee.cs",
+              "ToolTip": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeCachingDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:46:49.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeCachingDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeCachingDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:41:18.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeCachingDemo\\Program.cs",
+              "ToolTip": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\Program.cs",
+              "RelativeToolTip": "EmployeeCachingDemo\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:21:01.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeCachingDemo\\appsettings.json",
+              "ToolTip": "F:\\Web-Api-coding-practice\\Cache Example\\EmployeeCachingDemo\\EmployeeCachingDemo\\appsettings.json",
+              "RelativeToolTip": "EmployeeCachingDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-26T11:26:43.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
