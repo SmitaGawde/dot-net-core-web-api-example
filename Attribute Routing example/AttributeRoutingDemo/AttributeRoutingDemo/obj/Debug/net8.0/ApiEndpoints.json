@@ -1,0 +1,192 @@
+[
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.EmployeesController",
+    "Method": "GetALL",
+    "RelativePath": "api/Employees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.EmployeesController",
+    "Method": "GetByID",
+    "RelativePath": "api/Employees/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.EmployeesController",
+    "Method": "AddEmployee",
+    "RelativePath": "api/Employees/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emp",
+        "Type": "AttributeRoutingDemo.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.EmployeesController",
+    "Method": "Count",
+    "RelativePath": "api/Employees/Count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.EmployeesController",
+    "Method": "GetByDepartment",
+    "RelativePath": "api/Employees/department/{department}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "department",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.EmployeesController",
+    "Method": "GetByDepartment",
+    "RelativePath": "api/Employees/dept/{department}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "department",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.EmployeesController",
+    "Method": "GetEmpDetailsById",
+    "RelativePath": "api/Employees/details/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetEmployeeById"
+  },
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.EmployeesController",
+    "Method": "HighestSalary",
+    "RelativePath": "api/Employees/Employees/HighestSalary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.EmployeesController",
+    "Method": "GetInRange",
+    "RelativePath": "api/Employees/range/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.EmployeesController",
+    "Method": "GetBySalary",
+    "RelativePath": "api/Employees/salary/{salary}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "salary",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.EmployeesController",
+    "Method": "Search",
+    "RelativePath": "api/Employees/search/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.EmployeesController",
+    "Method": "GetV1",
+    "RelativePath": "api/Employees/v1/employees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttributeRoutingDemo.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AttributeRoutingDemo.WeatherForecast, AttributeRoutingDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

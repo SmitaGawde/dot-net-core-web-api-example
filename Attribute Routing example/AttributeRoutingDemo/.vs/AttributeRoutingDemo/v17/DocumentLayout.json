@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Web-Api-coding-practice\\Attribute Routing example\\AttributeRoutingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA818-40DB-4545-BEC8-4559BFFF04B1}|AttributeRoutingDemo\\AttributeRoutingDemo.csproj|f:\\web-api-coding-practice\\attribute routing example\\attributeroutingdemo\\attributeroutingdemo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA818-40DB-4545-BEC8-4559BFFF04B1}|AttributeRoutingDemo\\AttributeRoutingDemo.csproj|solutionrelative:attributeroutingdemo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA818-40DB-4545-BEC8-4559BFFF04B1}|AttributeRoutingDemo\\AttributeRoutingDemo.csproj|f:\\web-api-coding-practice\\attribute routing example\\attributeroutingdemo\\attributeroutingdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA818-40DB-4545-BEC8-4559BFFF04B1}|AttributeRoutingDemo\\AttributeRoutingDemo.csproj|solutionrelative:attributeroutingdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "F:\\Web-Api-coding-practice\\Attribute Routing example\\AttributeRoutingDemo\\AttributeRoutingDemo\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "AttributeRoutingDemo\\Controllers\\EmployeesController.cs",
+              "ToolTip": "F:\\Web-Api-coding-practice\\Attribute Routing example\\AttributeRoutingDemo\\AttributeRoutingDemo\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "AttributeRoutingDemo\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA4wFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:06:39.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\Web-Api-coding-practice\\Attribute Routing example\\AttributeRoutingDemo\\AttributeRoutingDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AttributeRoutingDemo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\Web-Api-coding-practice\\Attribute Routing example\\AttributeRoutingDemo\\AttributeRoutingDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AttributeRoutingDemo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:05:40.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
